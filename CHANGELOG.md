@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.4](https://www.github.com/indivorg/eslint-config/compare/v1.0.3...v1.0.4) (2021-07-15)
+
+
+### Bug Fixes
+
+* add registry-url ([4595c16](https://www.github.com/indivorg/eslint-config/commit/4595c169ff3ec4191d94d226cd21951da7bca95d))
+
 ### [1.0.3](https://www.github.com/indivorg/eslint-config/compare/v1.0.2...v1.0.3) (2021-07-15)
 
 
