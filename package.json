@@ -1,0 +1,29 @@
+{
+  "name": "@indivorg/eslint-config",
+  "version": "1.0.0",
+  "repository": "git@github.com:indivorg/eslint-config.git",
+  "author": "Indiv AS",
+  "license": "Apache-2.0",
+  "private": true,
+  "engines": {
+    "node": ">=14.15"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.2",
+    "@typescript-eslint/parser": "^4.28.2",
+    "eslint": "^7.30.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jest": "^24.3.6",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-unicorn": "^34.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "volta": {
+    "node": "14.15.0",
+    "yarn": "1.22.10"
+  }
+}
