@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/indivorg/eslint-config/compare/v1.0.2...v1.0.3) (2021-07-15)
+
+
+### Bug Fixes
+
+* build steps ([a58ba9d](https://www.github.com/indivorg/eslint-config/commit/a58ba9dc45d9e8836687e143719778048f6b7aa6))
+
 ### [1.0.2](https://www.github.com/indivorg/eslint-config/compare/v1.0.1...v1.0.2) (2021-07-15)
 
 
