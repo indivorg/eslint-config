@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/indivorg/eslint-config/compare/v1.0.0...v1.0.1) (2021-07-15)
+
+
+### Bug Fixes
+
+* release issues ([22c28ae](https://www.github.com/indivorg/eslint-config/commit/22c28aeed63bc856f6e07498c5bac20ae3c0c555))
+
 ## 1.0.0 (2021-07-15)
 
 
