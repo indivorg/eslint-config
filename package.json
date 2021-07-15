@@ -1,6 +1,6 @@
 {
   "name": "@indivorg/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "git@github.com:indivorg/eslint-config.git",
   "author": "Indiv AS",
   "license": "Apache-2.0",
