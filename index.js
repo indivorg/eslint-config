@@ -77,6 +77,12 @@ module.exports = {
         markers: ['/'],
       },
     ],
+    'unicorn/filename-case': [
+      'error',
+      {
+        case: 'kebabCase',
+      },
+    ],
   },
   overrides: [
     {
