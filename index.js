@@ -8,6 +8,7 @@ module.exports = {
     'eslint:recommended',
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
+    'plugin:eslint-comments/recommended',
     'plugin:promise/recommended',
     'plugin:jest/recommended',
     'prettier',
