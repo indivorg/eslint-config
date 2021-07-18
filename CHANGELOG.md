@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/indivorg/eslint-config/compare/v1.0.6...v2.0.0) (2021-07-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* Enforce kebab-case for filenames
+
+### Features
+
+* Enforce kebab-case for filenames ([5ad2a48](https://www.github.com/indivorg/eslint-config/commit/5ad2a48142889a2a273bd6558a2d813fd40b4970))
+
 ### [1.0.6](https://www.github.com/indivorg/eslint-config/compare/v1.0.5...v1.0.6) (2021-07-18)
 
 
