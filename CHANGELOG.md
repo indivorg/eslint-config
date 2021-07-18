@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.5](https://www.github.com/indivorg/eslint-config/compare/v1.0.4...v1.0.5) (2021-07-18)
+
+
+### Bug Fixes
+
+* Add eslint-plugin-eslint-comments ([09efa57](https://www.github.com/indivorg/eslint-config/commit/09efa57fdaffc1f80aa9fb3cc4ffc91f9be93410)), closes [#6](https://www.github.com/indivorg/eslint-config/issues/6)
+
 ### [1.0.4](https://www.github.com/indivorg/eslint-config/compare/v1.0.3...v1.0.4) (2021-07-15)
 
 
