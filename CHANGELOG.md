@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.6](https://www.github.com/indivorg/eslint-config/compare/v1.0.5...v1.0.6) (2021-07-18)
+
+
+### Bug Fixes
+
+* Add missing extend ([b20afe1](https://www.github.com/indivorg/eslint-config/commit/b20afe19976dadc962a319702098b585c34089d6))
+
 ### [1.0.5](https://www.github.com/indivorg/eslint-config/compare/v1.0.4...v1.0.5) (2021-07-18)
 
 
